@@ -3,7 +3,7 @@ package leadinArr;
 import java.util.Scanner;
 
 public class LeadInAnArr {
-	static void lead(int arr[], int x)
+	 static void lead(int arr[], int x)
 	{
 		for(int i = 0; i < x; i++)
 		{
